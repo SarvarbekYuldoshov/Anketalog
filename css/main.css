@@ -142,6 +142,8 @@ i:hover{
     margin-top: 25px;
     background:blue;
     border: 1px solid red;
+    transform: scale(1.1);
+    transition: 1s;
 }
 .header__img-three{
     margin-top: 3px;
