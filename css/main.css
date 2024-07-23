@@ -121,6 +121,8 @@ i:hover{
     text-align: center;
     color: #FFFFFF;
     border-radius: 5px;
+    transform: scale(1.1);
+    transition: 1s;
 }
 .header__img-one{
     position: absolute;
@@ -222,6 +224,8 @@ i:hover{
     line-height: 17.07px;
     letter-spacing: 0.05em;
     text-align: center;   
+    transform: scale(1.1);
+    transition: 1s;
 }
 .box__button-one{
     margin-top: 50px;
@@ -260,6 +264,8 @@ i:hover{
     line-height: 17.07px;
     letter-spacing: 0.05em;
     text-align: center;   
+    transform: scale(1.1);
+    transition: 1s;
 }
 /* ---------------------------------------------hero-------------------------------------------- */
 .hero__container{
