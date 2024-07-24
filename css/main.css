@@ -576,7 +576,9 @@ b{
     font-weight: 700;
     line-height: 14.63px;
     letter-spacing: 0.05em;
-    text-align: center;    
+    text-align: center;  
+    transform: scale(1.1);
+    transition: 1s;  
 }
 .cout__item{
     margin: 30px;
@@ -684,6 +686,8 @@ b{
     text-align: left;  
     color:blue;  
     border: 1px solid blue;
+    transform: scale(1.1);
+    transition: 1s;
 }
 /* -------------------------------------bollen------------------------------------- */
 .bollen__container{
@@ -736,6 +740,8 @@ b{
     letter-spacing: 0.05em;
     text-align: center;   
     border: 1px solid blue; 
+    transform: scale(1.1);
+    transition: 1s;
 }
 /* ------------------------------------------------------------------------name------------------------------------------------------------- */
 .name__container{
@@ -767,6 +773,8 @@ b{
     letter-spacing: 0.05em;
     text-align: center; 
     border-radius: 3px; 
+    transform: scale(1.1);
+    transition: 1s;
 }
 /* -------------------------------------------------------------------yellov---------------------------------------------------------------- */
 .yellov__container{
@@ -872,7 +880,9 @@ b{
     font-weight: 700;
     line-height: 14.63px;
     letter-spacing: 0.05em;
-    text-align: center;    
+    text-align: center;
+    transform: scale(1.1);
+    transition: 1s;
 }
 /* -----------------------------joker----------------------------------------------------------------- */
 .joker__conatiner{
@@ -975,7 +985,9 @@ b{
     font-weight: 700;
     line-height: 14.63px;
     letter-spacing: 0.05em;
-    text-align: center;    
+    text-align: center;
+    transform: scale(1.1);
+    transition: 1s;    
 }
 /* -----------------------------------------------------------------------gren----------------------------------- */
 .gren{
